@@ -1,2 +1,2 @@
-# HyperledgerFabric
+# Hyperledger Fabric
 Hyperledger Fabric
